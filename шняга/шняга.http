@@ -1,0 +1,6 @@
+@шняга_HostAddress = http://localhost:5228
+
+GET {{шняга_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
